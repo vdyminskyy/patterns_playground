@@ -1,6 +1,6 @@
 import yaml
 
-from factory_method import serializers
+from factory_method_rp import serializers
 
 
 class YamlSerializer(serializers.JsonSerializer):

@@ -1,4 +1,4 @@
-from factory_method import music
+from factory_method_rp import music
 
 config = {
     'spotify_client_key': 'THE_SPOTIFY_CLIENT_KEY',

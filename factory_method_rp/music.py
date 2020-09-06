@@ -1,4 +1,4 @@
-from factory_method import object_factory
+from factory_method_rp import object_factory
 
 
 def create_local_music_service(local_music_location, **_ignored):
